@@ -1,0 +1,13 @@
+$default-font: "Montserrat", sans-serif;
+$accent: #ff860d;
+$title_color: #4c566f;
+$text_color: #001a3d;
+$addit_color: #e6ecf5;
+
+// Customization Bootstrap vars from "app/libs/bootstrap/scss/_variables.scss"
+$grid-gutter-width: 20px;
+$grid-columns: 12;
+$grid-breakpoints: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px);
+$container-max-widths: (sm: 540px, md: 720px, lg: 960px, xl: 960.1px);
+
+$gutter: $grid-gutter-width;
